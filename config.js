@@ -1,6 +1,6 @@
 module.exports = {
 	
-	token: "8h2AwoNdLiycA_he3j1DvR9AfkScgtV_",
+	token: "OTc0NDcwOTgzMjc0NTk4NDIw.GHlM1d.nbJAW11zZMJMkN-zGzowW9PuoxAWmwBLbK5eXA",
 	ip: "185.237.216.214",
 	port: "16261"
 };
